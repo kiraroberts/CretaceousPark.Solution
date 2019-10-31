@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using CretaceousPark.Models;
 
 namespace CretaceousPark.Models
 {
